@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(233, 175, 211);
+    color: black;
+    background-image: url(assets/img-fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img {
+    height: 500px;
+    border: 5px solid rgb(12, 12, 12);
+    border-radius: 30px;
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20PX;
+    background-color: rgb(228, 164, 209);
+    color: rgb(15, 13, 14);
+}
+p {
+    color: deeppink;
+}
+
+footer p{
+    color: rgb(107, 40, 51);
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
